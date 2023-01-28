@@ -5,7 +5,7 @@
 </p>
 
 ---
-### 🔗🔗 Link: https://rededge967.github.io/Spider-Man
+### 🔗🔗 Link: https://github.com/LokeshSingh2022/Spider-Man.git
 ---
 ## Special Notes
 ### What is needed to Play `Spider-Man`
@@ -39,13 +39,13 @@
 -----------
 ## Running `Spider-Man`
 ### Running `online`
-- Go to https://rededge967.github.io/Spider-Man/
+- Go to https://github.com/LokeshSingh2022/Spider-Man.git
 ### Running `offline`
-- Download `source.code.zip` from [here](https://github.com/RedEdge967/Spider-Man/releases)
+- Download `source.code.zip` from [here](https://github.com/LokeshSingh2022/Spider-Man.git)
 - Extract the folder
 - Run `index.html` file in the browser
 ---
-## Can I [contribute?](https://github.com/RedEdge967/Spider-Man/blob/master/CONTRIBUTING.md)
+## Can I [contribute?](https://github.com/LokeshSingh2022/Spider-Man.git)
 - Sure, open an issue, point out errors, and what not. Wanna fix something yourselves, you're welcome to open a pull request and I appreciate it.
 ---
 ### Browser support
